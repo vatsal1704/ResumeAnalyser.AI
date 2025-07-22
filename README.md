@@ -2,7 +2,6 @@
 
 This is a repository that will cater a resume analysis with the help of Generative AI
 
-i
 
 ## Create the Virtual Environment
 
@@ -12,7 +11,7 @@ i
 
 We will use modular code to build our application.
 
-# resume-analysis.ai
+# resume-analyser.ai
 
 Resume Analysis...
 
