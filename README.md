@@ -1,4 +1,4 @@
-# match-reusme-AI
+## ResumeAnalyser.AI
 
 This is a repository that will cater a resume analysis with the help of Generative AI
 
@@ -40,3 +40,8 @@ scripts/activate`
 - Information we are capturing is `Resume.pdf` and ` job_des`.
 - Pdf.py that will process the information in pdf and thats why we have installed `pypdf `
 - analysis.py that will triangulate the pdf information and the JD and will provide insights and next step.
+
+
+
+
+**Live Demo:**https://match-reusme-ai.streamlit.app/
